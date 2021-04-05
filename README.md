@@ -8,9 +8,9 @@ Need help? Join my server! **[https://mewinvite.netlify.app/](https://mewinvite.
 # Installing
 Follow instructions :
 - With Extension
-### Download Google-Drive Theme : [https://miqcraft-theme.netlify.com](https://miqcraft-theme.netlify.app/page/google-classroom-theme)
+### Download Google-Drive Theme : [https://miqcraft-theme.netlify.com](https://miqcraft-theme.netlify.app/page/google-drive-theme)
 - With Userstyle.org [Stylish]
-### Go to pages : [https://userstyles.org/styles/classroom-miqcraft-theme](https://userstyles.org/styles/200375/classroom-miqcraft-theme)
+### Go to pages : [https://userstyles.org/styles/google-drive-miqcraft-theme](https://userstyles.org/styles/200866/google-drive-miqcraft-theme)
 
 **I found a bug, what do I do?**<br>Make a **Pull Request / Issue** and tell me :)
 
