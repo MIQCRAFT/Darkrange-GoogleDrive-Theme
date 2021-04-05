@@ -15,7 +15,7 @@ Follow instructions :
 **I found a bug, what do I do?**<br>Make a **Pull Request / Issue** and tell me :)
 
 # Screenshots
-![Preview 1](https://miqcraft-theme.netlify.app/assets/img/compare/classafter.jpg)
+![Preview 1](https://miqcraft-theme.netlify.app/assets/img/compare/driveafter.png)
 
 
 # License
